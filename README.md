@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static-goengines.gocase.com.br/uploads/image/314016/src/c1454680495aed40d2d375b36fc47151.png" height="320" alt="São Carlo Acutis" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG4GTqeEoDm3UCFhxfExYxw0ytE1m45ghOY_M_dWElJKZtSEdwIoHzRupXpgXhdnqaDFcAvTGd7nMuvs1JWovlqWiPSiUJzU0bc76x0SQ9JhfNNelajKEISfBwqPzWkGb3mbcMX-XTcelv8Pwocrdvy1vWJ61jyLE_dFMc3Yp2CjMrY8NetIzEd8Q-epSu/s3843/S%C3%A3o%20Carlos%20Acutis%20PNG%202.png" height="320" alt="São Carlo Acutis" />
   
   <h3>🌟 Carlo Acutis: O Santo do Computador</h3>
   <p>"A Eucaristia é a minha autoestrada para o Céu."</p>
@@ -20,7 +20,7 @@
 <hr>
 <br>
 
-# Sobre Mim
+# 💫 Sobre Mim
 Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby. Ofereço meu trabalho no Git à intercessão de Carlo Acutis, para que as automações sirvam ao bem, *Ad Maiorem Dei Gloriam*. No tempo livre:
 
 - 🤖 Construo automações e bots para Discord e WhatsApp.
@@ -44,4 +44,15 @@ Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
+</div>
+
+<br>
+
+# 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=marcosbinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Principais" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=marcosbinder&theme=dark&hide_border=false" alt="Estatísticas de Streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=marcosbinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens Principais" />
 </div>

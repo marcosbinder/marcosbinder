@@ -1,37 +1,21 @@
-<div align="center">
-  <h1>Olá, eu sou o Marcos Binder 👋</h1>
-  <h3>Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby.</h3>
-  <p>Mantendo os servidores rodando e o <b>vibecode</b> sempre em dia.</p>
-</div>
+# 💫 About Me:
+Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby. Mantendo os servidores rodando e o vibecode sempre em dia.<br><br>- 🤖 Construo automações e bots para Discord e WhatsApp no tempo livre.<br>- 🐧 Gosto de configurar servidores, mexer no Linux e explorar infraestrutura local.<br>- 🎮 Me aventuro por scripts em Lua para jogos e engenharia reversa básica.<br>- 💡 Foco em aprender quebrando as coisas e consertando depois.
 
-<br/>
 
-### 👨‍💻 Sobre mim
-- 🤖 Construo automações e bots para **Discord** e **WhatsApp** no tempo livre.
-- 🐧 Gosto de configurar servidores, mexer no **Linux** e explorar infraestrutura local.
-- 🎮 Também me aventuro por scripts em **Lua** para jogos e engenharia reversa básica.
-- 💡 Foco em aprender quebrando as coisas e consertando depois.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=marcosbinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=marcosbinder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marcosbinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=marcosbinder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🛠️ Minha Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" title="Lua" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="Ubuntu" title="Ubuntu" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=marcosbinder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=marcosbinder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Estatísticas
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosbinder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Estatísticas do GitHub" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

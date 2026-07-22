@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Tema Central: São Carlo Acutis e Jesus -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToskbCRlLQZwbDHezEu1wDLDQ1IV-33efjJm9UoLMVHg&s=10" width="140" alt="São Carlo Acutis" />
+  <img src="https://static-goengines.gocase.com.br/uploads/image/314016/src/c1454680495aed40d2d375b36fc47151.png" height="220" alt="São Carlo Acutis" />
   
   <h3>🌟 Carlo Acutis: O Santo do Computador</h3>
   <p>"A Eucaristia é a minha autoestrada para o Céu."</p>
@@ -8,14 +8,14 @@
   
   <br>
   
-  <!-- Padroeiros lado a lado com In Nomine Patris -->
-  <img src="https://loja.cancaonova.com/upload/produto/imagem/cruz-de-s-o-bento-1.webp" width="70" alt="Cruz de São Bento" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b><i>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</i></b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://irmasicm.org.br/wp-content/uploads/2023/10/Nossa-Senhora-Aparecida.png" width="70" alt="Nossa Senhora Aparecida" />
-  
-  <br><br>
+  <!-- Padroeiros e Oração ancorados na mesma linha -->
+  <p>
+    <img src="https://loja.cancaonova.com/upload/produto/imagem/cruz-de-s-o-bento-1.webp" height="90" align="middle" alt="Cruz de São Bento" />
+    &nbsp;&nbsp;
+    <b><i>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</i></b>
+    &nbsp;&nbsp;
+    <img src="https://irmasicm.org.br/wp-content/uploads/2023/10/Nossa-Senhora-Aparecida.png" height="90" align="middle" alt="Nossa Senhora Aparecida" />
+  </p>
   
   <h1>Marcos Binder 👋</h1>
   <h4>"Ora et Labora" (São Bento) | Mantendo o <b>vibecode</b> sempre em dia.</h4>

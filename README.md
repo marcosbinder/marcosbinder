@@ -1,23 +1,21 @@
 <!-- Main Header -->
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint_Benedict_Medal_-_Back.svg/150px-Saint_Benedict_Medal_-_Back.svg.png" align="left" width="100" alt="Cruz de São Bento" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Virgen_de_F%C3%A1tima.jpg/150px-Virgen_de_F%C3%A1tima.jpg" align="right" width="100" alt="Nossa Senhora de Fátima" />
+  
   <h1>Marcos Binder 👋</h1>
   <h3><i>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</i></h3>
-  <h4>"Ora et Labora" (São Bento) | Mantendo o <b>vibecode</b> sempre em dia.</h4>
+  <h4>"Ora et Labora" | Mantendo o <b>vibecode</b> sempre em dia.</h4>
 </div>
 
-<!-- Catholic Devotion Shields -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Padroeiro-S%C3%A3o%20Bento-red?style=flat-square&logo=cross&logoColor=white" alt="São Bento" />
-  <img src="https://img.shields.io/badge/Devo%C3%A7%C3%A3o-Virgem%20Maria-blue?style=flat-square&logo=pray&logoColor=white" alt="Virgem Maria" />
-</div>
-
+<br clear="both">
 <br>
 
-# 💫 Sobre Mim (About Me)
+# Sobre Mim
 Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby. Busco realizar meu trabalho com excelência, *Ad Maiorem Dei Gloriam*. No meu tempo livre:
 
 - 🤖 Construo automações e bots para Discord e WhatsApp.
-- 🐧 Gosto de configurar servidores, mexer no Linux e explorar infraestrutura local (Home Lab).
+- 🐧 Gosto de configurar servidores, mexer no Linux e explorar infraestrutura local.
 - 🎮 Me aventuro por scripts em Lua para jogos e engenharia reversa básica.
 - 💡 Foco em aprender quebrando as coisas e consertando depois.
 
@@ -44,7 +42,7 @@ Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby
 
 <br>
 
-# 📊 GitHub Stats
+# 📊 Estatísticas
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=marcosbinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Principais" />
   <br>
@@ -57,6 +55,5 @@ Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby
 
 ---
 <div align="center">
-  <i>Sub tuum praesidium confugimus, Sancta Dei Genitrix.</i><br>
-  Criado com a ajuda do GPRM e revisado Ad Maiorem Dei Gloriam.
+  <i>Sub tuum praesidium confugimus, Sancta Dei Genitrix.</i>
 </div>

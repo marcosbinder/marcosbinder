@@ -33,8 +33,6 @@
 
 ### 📊 Estatísticas
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosbinder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbinder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcaodosbots&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcaodosbots&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" />
 </div>
-
-<br/>

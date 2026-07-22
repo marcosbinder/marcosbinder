@@ -1,20 +1,15 @@
 <div align="center">
-  <!-- Tema Central: São Carlo Acutis e Jesus -->
-  <img src="https://static-goengines.gocase.com.br/uploads/image/314016/src/c1454680495aed40d2d375b36fc47151.png" height="220" alt="São Carlo Acutis" />
+  <img src="https://static-goengines.gocase.com.br/uploads/image/314016/src/c1454680495aed40d2d375b36fc47151.png" height="320" alt="São Carlo Acutis" />
   
   <h3>🌟 Carlo Acutis: O Santo do Computador</h3>
   <p>"A Eucaristia é a minha autoestrada para o Céu."</p>
-  <p><b>"Eu sou o caminho, a verdade e a vida." (Jo 14, 6)</b></p>
   
-  <br>
-  
-  <!-- Padroeiros e Oração ancorados na mesma linha -->
   <p>
-    <img src="https://loja.cancaonova.com/upload/produto/imagem/cruz-de-s-o-bento-1.webp" height="90" align="middle" alt="Cruz de São Bento" />
-    &nbsp;&nbsp;
+    <img src="https://loja.cancaonova.com/upload/produto/imagem/cruz-de-s-o-bento-1.webp" height="85" align="middle" alt="Cruz de São Bento" />
+    &nbsp;&nbsp;&nbsp;
     <b><i>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</i></b>
-    &nbsp;&nbsp;
-    <img src="https://irmasicm.org.br/wp-content/uploads/2023/10/Nossa-Senhora-Aparecida.png" height="90" align="middle" alt="Nossa Senhora Aparecida" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://irmasicm.org.br/wp-content/uploads/2023/10/Nossa-Senhora-Aparecida.png" height="85" align="middle" alt="Nossa Senhora Aparecida" />
   </p>
   
   <h1>Marcos Binder 👋</h1>

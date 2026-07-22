@@ -1,19 +1,23 @@
 <div align="center">
-  <img src="carlo.png" height="320" alt="São Carlo Acutis" />
-  
-  <h3>🌟 Carlo Acutis: O Santo do Computador</h3>
-  <p>"A Eucaristia é a minha autoestrada para o Céu."</p>
-  
-  <p>
-    <img src="https://loja.cancaonova.com/upload/produto/imagem/cruz-de-s-o-bento-1.webp" height="85" align="middle" alt="Cruz de São Bento" />
-    &nbsp;&nbsp;&nbsp;
-    <b><i>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</i></b>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://irmasicm.org.br/wp-content/uploads/2023/10/Nossa-Senhora-Aparecida.png" height="85" align="middle" alt="Nossa Senhora Aparecida" />
-  </p>
-  
+  <!-- Informação Principal: O Dono do Perfil -->
   <h1>Marcos Binder 👋</h1>
   <h4>"Ora et Labora" (São Bento) | Mantendo o <b>vibecode</b> sempre em dia.</h4>
+
+  <br><br>
+
+  <!-- Homenagem e Devoção -->
+  <img src="carlo.png" height="200" alt="São Carlo Acutis" />
+  <p><b>🌟 Carlo Acutis: O Santo do Computador</b></p>
+  <p><i>"A Eucaristia é a minha autoestrada para o Céu."</i></p>
+  
+  <br>
+  
+  <!-- Elementos de alinhamento estabilizado -->
+  <p>
+    <img src="https://loja.cancaonova.com/upload/produto/imagem/cruz-de-s-o-bento-1.webp" height="60" align="middle" alt="Cruz de São Bento" />
+    &nbsp;&nbsp;<b><i>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</i></b>&nbsp;&nbsp;
+    <img src="https://irmasicm.org.br/wp-content/uploads/2023/10/Nossa-Senhora-Aparecida.png" height="60" align="middle" alt="Nossa Senhora Aparecida" />
+  </p>
 </div>
 
 <br>

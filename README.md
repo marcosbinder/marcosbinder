@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG4GTqeEoDm3UCFhxfExYxw0ytE1m45ghOY_M_dWElJKZtSEdwIoHzRupXpgXhdnqaDFcAvTGd7nMuvs1JWovlqWiPSiUJzU0bc76x0SQ9JhfNNelajKEISfBwqPzWkGb3mbcMX-XTcelv8Pwocrdvy1vWJ61jyLE_dFMc3Yp2CjMrY8NetIzEd8Q-epSu/s3843/S%C3%A3o%20Carlos%20Acutis%20PNG%202.png" height="320" alt="São Carlo Acutis" />
+  <img src="carlo.png" height="320" alt="São Carlo Acutis" />
   
   <h3>🌟 Carlo Acutis: O Santo do Computador</h3>
   <p>"A Eucaristia é a minha autoestrada para o Céu."</p>

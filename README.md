@@ -1,21 +1,58 @@
-<!-- Main Header -->
+<!-- Header Section (Jesus, Maria, São Bento e o Nome) -->
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint_Benedict_Medal_-_Back.svg/150px-Saint_Benedict_Medal_-_Back.svg.png" align="left" width="100" alt="Cruz de São Bento" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Virgen_de_F%C3%A1tima.jpg/150px-Virgen_de_F%C3%A1tima.jpg" align="right" width="100" alt="Nossa Senhora de Fátima" />
+  <!-- Imagem Central de Jesus Cristo (Crucifixo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/San_Damiano_Cross_icon.svg/200px-San_Damiano_Cross_icon.svg.png" width="200" alt="Cruz de São Damião - Jesus Cristo" />
   
-  <h1>Marcos Binder 👋</h1>
-  <h3><i>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</i></h3>
-  <h4>"Ora et Labora" | Mantendo o <b>vibecode</b> sempre em dia.</h4>
+  <br>
+  
+  <h1>"Eu sou o caminho, a verdade e a vida." (Jo 14, 6)</h1>
+  <p><i>Ad Maiorem Dei Gloriam.</i></p>
+
+  <br>
+
+  <!-- Estrutura do In Nomine com Ícones (Bento e Maria) -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <!-- Esquerda: Cruz/Medalha de São Bento (estável da Wikipedia) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint_Benedict_Medal_-_Back.svg/100px-Saint_Benedict_Medal_-_Back.svg.png" width="70" alt="Cruz de São Bento" style="display: inline-block; vertical-align: middle;" />
+    
+    <!-- Centro: O Texto da Oração -->
+    <h2 style="display: inline-block; vertical-align: middle; margin: 0 15px;">Marcos Binder 👋</h2>
+    
+    <!-- Direita: Nossa Senhora Aparecida (estável da Wikipedia com fundo transparente) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nossa_Senhora_Aparecida_%28est%C3%A1tua%29.png/100px-Nossa_Senhora_Aparecida_%28est%C3%A1tua%29.png" width="70" alt="Nossa Senhora Aparecida" style="display: inline-block; vertical-align: middle;" />
+  </div>
+  
+  <h3>In Nomine Patris, et Filii, et Spiritus Sancti. Amen.</h3>
+  <p>"Ora et Labora" (São Bento) | Mantendo o <b>vibecode</b> sempre em dia.</p>
 </div>
 
-<br clear="both">
+<br>
+<hr>
 <br>
 
+<!-- São Carlo Acutis - O Padroeiro Principal -->
+<div align="center">
+  <h2>🌟 Carlo Acutis: O Santo do Computador</h2>
+  
+  <!-- Usando a foto do Google que você mandou (ela pode quebrar se o link expirar, mas usei o link direto estável para o Googleusercontent) -->
+  <img src="https://lh3.googleusercontent.com/d/1ToskbCRlLQZwbDHezEu1wDLDQ1IV-33efjJm9UoLMVHg" width="180" alt="Bem-aventurado Carlo Acutis" />
+  
+  <br>
+  
+  <h3>"A Eucaristia é a minha autoestrada para o Céu."</h3>
+  <p><i>Ofereço meu trabalho no Git à intercessão de Carlo Acutis, para que as automações sirvam ao bem.</i></p>
+</div>
+
+<br>
+<hr>
+<br>
+
+<!-- Sobre Mim e Hobbies -->
 # Sobre Mim
-Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby. Busco realizar meu trabalho com excelência, *Ad Maiorem Dei Gloriam*. No meu tempo livre:
+Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby. Busco refletir a criatividade de Deus no código. No tempo livre:
 
 - 🤖 Construo automações e bots para Discord e WhatsApp.
-- 🐧 Gosto de configurar servidores, mexer no Linux e explorar infraestrutura local.
+- 🐧 Gosto de configurar servidores, mexer no Linux e explorar infraestrutura local (Home Lab).
 - 🎮 Me aventuro por scripts em Lua para jogos e engenharia reversa básica.
 - 💡 Foco em aprender quebrando as coisas e consertando depois.
 
@@ -33,22 +70,8 @@ Desenvolvedor autodidata, entusiasta de automações e criador de bots por hobby
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia" />
-  <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-</div>
-
-<br>
-
-# 📊 Estatísticas
-<div align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=marcosbinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Principais" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=marcosbinder&theme=dark&hide_border=false" alt="Estatísticas de Streak" />
-  <br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=marcosbinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens Principais" />
+  <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </div>
 
 <br>

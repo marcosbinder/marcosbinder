@@ -5,18 +5,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=535&height=44&lines=I%20do%20small%20projects%2C%20just%20hobbies;learning%20w%2F%20AI;Ora%20et%20Labora%20%7C%20Ad%20Maiorem%20Dei%20Gloriam" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=580&height=44&lines=Student%20%26%20self-taught%20developer;Learning%20fast%20with%20AI%20as%20a%20study%20partner;Building%20practical%20tools%20%26%20systems;Ora%20et%20Labora%20%7C%20Ad%20Maiorem%20Dei%20Gloriam" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Self-taught developer, automation enthusiast, and hobbyist bot builder. I dedicate my work here through the intercession of St. Carlo Acutis, that technology may always serve the greater good — *Ad Maiorem Dei Gloriam*.
+High school student and self-taught builder. I like turning ideas into practical software, from school logistics systems and network monitors to autonomous bots. I actively use AI as an intensive study partner to break down complex architectures, dissect new technologies, and learn how things work under the hood. Don't tell anyone I vibecode, haha!
 
-- 🔭 &nbsp;I'm currently working on **Custom Discord & WhatsApp bots, task automation workflows, Lua game scripts, and local Linux homelab setups.**  
-- 🌱 &nbsp;I'm currently learning **Backend architecture, database integrations, and advanced prompt-driven system workflows with AI.**  
-- 👯 &nbsp;I'm looking to collaborate on **Open-source automation tools, API integrations, and community bots.**  
+I dedicate my work here through the intercession of St. Carlo Acutis, that technology may always serve the greater good.
+> *Ad Maiorem Dei Gloriam*.
+
+- 🔭 &nbsp;I'm currently building **practical web systems, network telemetry utilities, and automation bots.**  
+- 🧠 &nbsp;How I learn: **Hands-on experimentation + AI pair-programming to study backend design, databases (SQLite WAL, PostgreSQL), and system resilience.**  
+- 👯 &nbsp;I'm looking to collaborate on **useful open-source tools, API integrations, and community projects.**  
 - 😄 &nbsp;Pronouns: **He/Him.**  
-- ⚡ &nbsp;Fun fact: **I learn by breaking things down and fixing them later.**
+- ⚡ &nbsp;Fun fact: **I learn best by breaking systems apart, asking "why does this work this way?", and rebuilding them better.**
 
 ### 🛠️ Tech Stack
 
